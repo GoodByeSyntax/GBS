@@ -1,4 +1,4 @@
-pip install ByteLightProject
+pip install GooByeSyntax
 
 1. **`wait(key="s", num=1)`**: Pauses execution for a specified amount of time. The unit is controlled by the `key` parameter, which can be 's' for seconds, 'm' for minutes, or 'h' for hours.
    
@@ -290,3 +290,11 @@ pip install ByteLightProject
  115. **`efv(string)`**: efv = (exec for variables) : Parses `string` in the code. U can use it like `parser = efv("x=5,y=2");print(parser['y'])` `Out:2` and if parser['x'] it'd return 5
 
  116. **`Hpass(limit=30)`**: Generates a strong, hard-level password with a length specified by `limit`.
+
+ 117. **`l(input)`**: Returns a list of the input.
+
+ 118. **`dl(input)`**: Returns the string of the list input.
+
+ 119. **`mix(input)`**: Returns the mix of the input.
+
+ 120. **`sugar(input)`**: Sugars `(Super Salts)` the input.
