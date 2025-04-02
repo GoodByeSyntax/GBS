@@ -32,8 +32,8 @@ What Users Can Do:
 **1. Permission for Commercial Use or Profit**  
 If you want to use the Software for **commercial purposes** (e.g., selling a product that includes it or using it in a business), you **must get permission** from the Licensor.  
 
-Alternatively, you can use the Software commercially **without prior permission** if you **credit "ByteLightDev" properly** by:  
-- Displaying the **ByteLightDev logo** in your commercial content.  
+Alternatively, you can use the Software commercially **without prior permission** if you **credit "GoodByeSyntax" properly** by:  
+- Displaying the **GoodByeSyntax logo** in your commercial content.  
 - Ensuring the logo appears **clearly** in the video for **at least 3 seconds** in **HD quality** and is **easily visible** (not hidden or covered).  
 
 © 2025 [GoodByeSyntax]
