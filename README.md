@@ -1,17 +1,17 @@
-# ByteLightProject:
-ByteLightProject is a module that adds functions...
+# GoodByeSyntax:
+GoodByeSyntax is a module that adds functions...
 
 ## Guide:
 Click [GUIDE](GUIDE.md) to see it.
 
 ## Install command:
-pip install ByteLightProject
+pip install GoodByeSyntax
 
 ## PyPI:
-[ByteLightProject PyPI](https://pypi.org/project/ByteLightProject/)
+[GoodByeSyntax PyPI](https://pypi.org/project/GoodByeSyntax/)
 
 ## License:
 This project is licensed under the [Private Use License](LICENSE.md).
 
 ## My youtube channel:
-[ByteLightDev YouTube](https://www.youtube.com/@ByteLightDev)
+[GoodByeSyntax](https://www.youtube.com/@GBS.official0)
