@@ -3,13 +3,13 @@ What Users Can Do:
    Users can download and use the Software for personal projects, non-commercial projects, or educational purposes, as long as it's not for profit or commercial gain.
 
 2. **Incorporate into Larger Projects:**  
-   Users can include the Software in larger projects, either public or private, but **with proper attribution** (e.g., crediting the original author, "ByteLightDev").
+   Users can include the Software in larger projects, either public or private, but **with proper attribution** (e.g., crediting the original author, "GoodByeSyntax").
 
 3. **Modify for Personal Use:**  
    Users can modify the Software for their own use within a larger project, as long as any modifications are clearly documented (e.g., note which parts were changed).
 
 4. **Publicly Distribute:**  
-   Users can distribute their projects that use the Software publicly, but **U must provide proper attribution** to the original author and include the required notice ("This project includes software developed by [ByteLightDev], © 2025...").
+   Users can distribute their projects that use the Software publicly, but **U must provide proper attribution** to the original author and include the required notice ("This project includes software developed by [GoodByeSyntax], © 2025...").
 
 ---
 
