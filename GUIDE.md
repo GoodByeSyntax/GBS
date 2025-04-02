@@ -1,4 +1,4 @@
-pip install GooByeSyntax
+pip install GoodByeSyntax
 
 1. **`wait(key="s", num=1)`**: Pauses execution for a specified amount of time. The unit is controlled by the `key` parameter, which can be 's' for seconds, 'm' for minutes, or 'h' for hours.
    
