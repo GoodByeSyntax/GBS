@@ -1,2 +1,2 @@
-- **Reduced external library dependencies** while keeping all existing functionality.
-- **Introduced the `Hpass` function** for added capabilities.
+- **Didn't add external libraries**.
+- **Introduced `13` new function** for added capabilities.
