@@ -1,4 +1,4 @@
-pip install GoodByeSyntax
+pip install GooByeSyntax
 
 1. **`wait(key="s", num=1)`**: Pauses execution for a specified amount of time. The unit is controlled by the `key` parameter, which can be 's' for seconds, 'm' for minutes, or 'h' for hours.
    
@@ -298,3 +298,31 @@ pip install GoodByeSyntax
  119. **`mix(input)`**: Returns the mix of the input.
 
  120. **`sugar(input)`**: Sugars `(Super Salts)` the input.
+
+ 121. **`get_type(value)`**: Returns the type and string representation of the provided value.
+
+ 122. **`Cache` Class**: A simple caching system to store and retrieve key-value pairs.
+
+ 123. **`cantint(egl, ftw, tw)`**: Performs comparisons on values based on the provided parameters and clears the `tw` list if certain conditions are met.
+
+ 124. **`flatten(obj)`**: Flattens a nested list (or iterable) into a single iterable.
+
+ 125. **`memoize(func)`**: Caches the result of a function to optimize performance.
+
+ 126. **`chunk(iterable, size)`**: Breaks down a large iterable (e.g., list, string) into smaller chunks of a specified size.
+
+ 127. **`merge_dicts(*dicts)`**: Merges multiple dictionaries into one.
+
+ 128. **`deep_equal(a, b)`**: Checks if two objects (lists or dictionaries) are deeply equal.
+
+ 129. **`split_by(text, size)`**: Splits a string into chunks of a given size.
+
+ 130. **`GoodBye2Spy` Class**: A class that encapsulates several password and data processing techniques for security-related tasks.
+
+ 131. **`Passworded` (Nested Class inside `GoodBye2Spy`)**: Provides functionality for creating and verifying password hashes with key mixing and randomization.
+
+ 132. **`Shifting` (Nested Class inside `GoodBye2Spy`)**: Implements a hashing function that uses bitwise operations on the input data.
+
+ 133. **`Oneway` (Nested Class inside `GoodBye2Spy`)**: Creates a one-way hashed value using a combination of key mixing and a shifting hash technique.
+
+ 134. **`slc(code: str)`**: Strips and parses the provided Python code to remove unnecessary line breaks and spaces.
