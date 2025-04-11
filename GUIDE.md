@@ -1,4 +1,4 @@
-pip install GooByeSyntax
+pip install GoodByeSyntax
 
 1. **`wait(key="s", num=1)`**: Pauses execution for a specified amount of time. The unit is controlled by the `key` parameter, which can be 's' for seconds, 'm' for minutes, or 'h' for hours.
    
@@ -326,3 +326,9 @@ pip install GooByeSyntax
  133. **`Oneway` (Nested Class inside `GoodBye2Spy`)**: Creates a one-way hashed value using a combination of key mixing and a shifting hash technique.
 
  134. **`slc(code: str)`**: Strips and parses the provided Python code to remove unnecessary line breaks and spaces.
+
+ 135. **`AI(text,questions=None,summarize_text=False,summary_length=3)`**: It can answer questions or summarize the `text`.
+
+ 136. **`GAI` (Nested Class inside `AI`)**: It can answer and summarize text.(Better than `summarize` when it comes to QA.)
+
+ 137. **`summarize` (Nested Class inside `AI`)**: It can summarize text.(Better than `GAI` when it comes to summarizing.)
