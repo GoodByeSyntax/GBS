@@ -5,7 +5,7 @@ pip install GoodByeSyntax
 2. **`ifnull(_v, _d)`**: Returns `_d` if `_v` is `None` or an empty string. Otherwise, it returns `_v`.
 
 3. **`switch_case(_v, _c, d=None)`**: Looks up a value `_v` in dictionary `_c` and returns the corresponding value. If `_v` isn't in `_c`, it returns `d`. If the value is callable (e.g., a function), it is executed.
-
+Key
 4. **`timer_function(func, seconds)`**: Executes the function `func` after waiting for a specified number of seconds.
 
 5. **`iftrue(var, function)`**: If `var` is `True`, it calls the function `function`.
@@ -171,9 +171,12 @@ pip install GoodByeSyntax
 
  83. **`prn()`**: A faster printing function that mimics the `print()` function, but with quicker execution.
 
- 84. **`Key`**  
+ 84. **`Key(Key goes in here)`**  
     - **`press()`**: Simulates pressing the assigned key.
     - **`release()`**: Simulates releasing the assigned key.
+    - **`tap()`**: Simulates pressing and releasing the assigned key.
+    - **`type_text(Text goes in here instead)`**: Simulates typing the assigned text.
+    - **`press_combo(tuple of keys goes in here)`**: Simulates pressing the assigned keys.
 
  85. **`copy_to_clipboard(text)`**: Copies the given `text` to the clipboard.
 
@@ -332,3 +335,5 @@ pip install GoodByeSyntax
  136. **`GAI` (Nested Class inside `AI`)**: It can answer and summarize text.(Better than `summarize` when it comes to QA.)
 
  137. **`summarize` (Nested Class inside `AI`)**: It can summarize text.(Better than `GAI` when it comes to summarizing.)
+
+ 138. **`requireADMIN(For windows only!)`**: Shuts the program with a error when opened if not runned as Administrator.
