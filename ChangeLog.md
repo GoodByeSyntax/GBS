@@ -1,2 +1,2 @@
-- **Didn't add external libraries**.
-- **Introduced `AI`.
+- **Reduced external libraries 3 to 2**.
+- **Introduced `requireADMIN`.
