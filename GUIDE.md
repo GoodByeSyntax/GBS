@@ -2,10 +2,10 @@ pip install GoodByeSyntax
 
 1. **`wait(key="s", num=1)`**: Pauses execution for a specified amount of time. The unit is controlled by the `key` parameter, which can be 's' for seconds, 'm' for minutes, or 'h' for hours.
    
-2. **`ifnull(_v, _d)`**: Returns `_d` if `_v` is `None` or an empty string. Otherwise, it returns `_v`.
+2. **`ifnull(value, default)`**: This function checks if the given `value` is missing or empty. If it is, the function returns the provided `default` value. Otherwise, it returns the original value.
 
-3. **`switch_case(_v, _c, d=None)`**: Looks up a value `_v` in dictionary `_c` and returns the corresponding value. If `_v` isn't in `_c`, it returns `d`. If the value is callable (e.g., a function), it is executed.
-Key
+3. **`switch_case(key, cases, default=None)`**: This function looks up the `key` in the given dictionary of cases. If the `key` exists, it returns the corresponding value. If the value is a callable (like a function), it is executed. If the `key` is not found, it returns the `default` value.
+
 4. **`timer_function(func, seconds)`**: Executes the function `func` after waiting for a specified number of seconds.
 
 5. **`iftrue(var, function)`**: If `var` is `True`, it calls the function `function`.
