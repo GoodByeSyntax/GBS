@@ -1,4 +1,7 @@
-![GBShiels](Ast/GBShiels.png)
+<p align="center">
+  <img src="Ast/GBShiels.png" alt="GBShiels" width="300"/>
+</p>
+
 
 # GoodByeSyntax:
 GoodByeSyntax is a module that adds functions...
