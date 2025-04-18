@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="Ast/GBShiels.png" alt="GBShiels" width="300" style="pointer-events: none; user-select: none;" />
+  <img src="Ast/GBShiels.png" alt="GBShiels" width="300">
 </p>
+
 
 
 
