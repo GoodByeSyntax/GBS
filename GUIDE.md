@@ -1,3 +1,5 @@
+![GBShiels](https://raw.githubusercontent.com/GoodByeSyntax/GBS/main/Ast/GBShiels.png)
+
 pip install GoodByeSyntax
 
 1. **`wait(key="s", num=1)`**: Pauses execution for a specified amount of time. The unit is controlled by the `key` parameter, which can be 's' for seconds, 'm' for minutes, or 'h' for hours.
@@ -337,3 +339,7 @@ pip install GoodByeSyntax
  137. **`summarize` (Nested Class inside `AI`)**: It can summarize text.(Better than `GAI` when it comes to summarizing.)
 
  138. **`requireADMIN(For windows only!)`**: Shuts the program with a error when opened if not runned as Administrator.
+
+ 139. **`get_raw_from_web(url)`**: Returns the raw text in the raw text `url`.
+
+ 140. **`@private`**: Wraps the function and the wrapped function can only used within the class its used.
