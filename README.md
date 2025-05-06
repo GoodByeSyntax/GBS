@@ -20,4 +20,4 @@ This project is licensed under the [Private Use License](LICENSE.md).
 ## My youtube channel:
 [GoodByeSyntax](https://www.youtube.com/@GBS.official0)
 
-****For the exe files you can check ByteLightProject.****
+****************For the exe files you can check ByteLightProject.****************
