@@ -3,7 +3,7 @@
 </p>
 
 # GoodByeSyntax:
-GoodByeSyntax is a module that adds functions to **python**...
+GoodByeSyntax is a module that adds functions to **python** and simplify the existing ones...
 
 ## Guide:
 Click [GUIDE](GUIDE.md) to see it.
