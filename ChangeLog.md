@@ -1,2 +1,0 @@
-- **Didn't add external libraries**.
-- **Introduced `creator,verifier,remove,get_screen_size,NCMLHS,remove_duplicates,uncensor`.**
