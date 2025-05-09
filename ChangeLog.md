@@ -1,3 +1,3 @@
-**                                              THE DAY HAS CAME**
+**                                              -THE DAY HAS CAME-**
 
-**                                              NO EXTERNAL LIBS**
+**                                              -NO EXTERNAL LIBS-**
