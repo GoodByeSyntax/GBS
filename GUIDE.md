@@ -340,7 +340,7 @@ pip install GoodByeSyntax
 
  138. **`requireADMIN(For windows only!)`**: Shuts the program with a error when opened if not runned as Administrator.
 
- 139. **`get_raw_from_web(url)`**: Returns the raw text in the raw text `url`.
+ 139. **`__get_raw_from_web(url)`**: Returns the raw text in the raw text `url` (**Module**).
 
  140. **`@private`**: Wraps the function and the wrapped function can only used within the class its used.
 
@@ -371,3 +371,25 @@ pip install GoodByeSyntax
  153. **`get(list_name)` (Method inside `BendableLists`)**: Retrieves the contents of a list by name; returns `None` if the list doesn't exist.
 
  154. **`Nexttime(func, func2)`**: Executes `func` the first time it's called, then alternates with `func2` on subsequent calls using a toggled internal state key (`"runnext"`).
+ 
+ 155. **`Http`**: A class that can get and post requests to web.
+
+ 156. **`get` (Method inside `Http`)**: Returns scraped data from url.
+
+ 157. **`post` (Method inside `Http`)**: Posts a request to a url and returns the response.
+
+ 158. **`getos()`**: Returns the os where the script runs.
+
+ 159. **`str2int(input)`**: Returns char locations in alphabet based on `input` such as `abc` to `123` or `acb` to `132`.
+
+ 160. **`int2str(input)`**: Does the opposite of `str2int`.
+
+ 161. **`shiftinwin(shiftrate,text)`**: Shifts `text` with the rate of `shiftrate` and returns it such as shiftinwin(5,Hii) >>> Hii > iiH > iHi > Hii > iiH.
+
+ 162. **`runwithin(code,call,params)`**: Runs the `code` calling `class > function() or class.function()` with the `params` placed in such as runwithin(code,func(params go in here when executed dont add params here!) or class.func(params go in here when executed dont add params here!),params). 
+
+ 163. **`Locker`**: A class that can lock or unlock a string based on key.(Numbers isn't supported)
+ 
+ 164. **`Lock` (Method inside `Locker`)**: Locks the `data` based on `key` and returns it.
+ 
+ 165. **`Unlock` (Method inside `Locker`)**: Unlocks the `Ldata` with `Key` and returns it.
