@@ -1,4 +1,4 @@
-**What Users Can Do**:
+   **What Users Can Do**:
 1. **Use for Personal and Non-Commercial Purposes:**  
    Users can download and use the Software for personal projects, non-commercial projects, or educational purposes, as long as it's not for profit or commercial gain.
 
@@ -13,7 +13,7 @@
 
 ---
 
-**What Users Can't Do:**
+   **What Users Can't Do:**
 1. **Commercial Use Without Permission:**  
    Users cannot use the Software for commercial purposes (e.g., selling it, using it in a product sold for profit) without any **consent** from the Licensor.
 
@@ -28,7 +28,7 @@
 
 ---
 
-**How U Can Use the Software:**
+   **How U Can Use the Software:**
 **1. Permission for Commercial Use or Profit**  
 If you want to use the Software for **commercial purposes** (e.g., selling a product that includes it or using it in a business), you **must get permission** from the Licensor.  
 
@@ -37,5 +37,9 @@ Alternatively, you can use the Software commercially **without prior permission*
 - Ensuring the logo appears **clearly** in the video for **at least 3 seconds** in **HD quality** and is **easily visible** (not hidden or covered).
 or
 - Creditting it in the description.
+
+---
+
+By using this software you consider agreed to license.
 
 © 2025 [GoodByeSyntax]
